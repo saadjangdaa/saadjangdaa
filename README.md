@@ -1,16 +1,23 @@
 # 💫 About Me:
 Hi Devs,<br>
-I am a Full-Stack Developer and Co-Founder of StudyNinja AI
-<br>I'm currently building SubjectGPT for students
+I am Saad Jangda a Full-Stack Developer and Co-Founder of StudyNinja AI
+<br>I'm currently building SubjectGPT for students : [https://studyninjaai.web.app/](https://studyninjaai.web.app/)
 <br>Got More than 90 Signups for SubjectGPT
 <br>Featured on [Buildspace Demo Page](https://buildspace.so/s4/demoday/subjectgpt)
 <br>I have a experience of 3-4 years in Full-Stack Development from .NET to React to Angular 
-<br>I'm looking to collabrate on Unimentor my OpenSource project
-<br>I'm currently learning Web3 technologies and Generateive AI
-<br>I have won in many hackthons such as
+<br>I'm looking to collabrate on UniMentor my OpenSource project
+<br>I'm currently learning Web3 technologies and Generative AI
+
+# Participated in Hackathons  
+<br>I Participated in many hackthons such as
     <br>- HackStack Google'23 First Position 
-    <br>- ACSEC 4 CS Module- Atchison College Lahore 
-    <br>- Robosonic RoboWar Module - Alpha College 
+    <br>- ACSEC 4 Winner CS Module- Atchison College Lahore 
+    <br>- Epsilon Winner RoboWar Module - Alpha College 
+    <br>- Roundtable 2nd Position - Cedar College 
+    <br>- Scinnova 2nd Position at Architectonics - Cedar College
+    <br>- YLES Entreprenuership Summit - LUMS Lahore
+    <br>- Wharton Invesment Competition - University of Pennsylvania USA
+
 
 💼 Services I Offer:
 
@@ -35,7 +42,6 @@ I am a Full-Stack Developer and Co-Founder of StudyNinja AI
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=saadjangdaa&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-# Participated in Hackathons  
 
 <p align="center" >
  
