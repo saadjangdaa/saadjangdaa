@@ -10,8 +10,8 @@ I am Saad Jangda a Full-Stack Developer and Co-Founder of StudyNinja AI
 <br>For any queries mail me at 📧 saadjangdaa@outlook.com
 
 
-# Participated in Hackathons  
-<br>I Participated in many hackthons such as
+# Participated in Competitions  
+<br>I Participated in many Competitions such as
     <br>- HackStack Google'23 First Position 
     <br>- ACSEC 4 Winner CS Module- Atchison College Lahore 
     <br>- Epsilon Winner RoboWar Module - Alpha College 
