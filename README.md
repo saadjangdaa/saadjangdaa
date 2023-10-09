@@ -4,7 +4,11 @@ I am a Full-Stack Developer and Co-Founder of StudyNinja AI
 <br>I'm currently building SubjectGPT for students
 <br>I have a experience of 3-4 years in Full-Stack Development from .NET to React to Angular 
 <br>I'm looking to collabrate on Unimentor my OpenSource project
-<br>I'm currently learning Web3 technologies and Generateive AI<br>
+<br>I'm currently learning Web3 technologies and Generateive AI
+<br>I have won many hackthons such as
+    <br>: HackStack Google'23
+    <br>: ACSEC 4 - Atchison college Lahore 
+    <br>: Robosonic - Alpha College 
 
 💼 Services I Offer:
 
