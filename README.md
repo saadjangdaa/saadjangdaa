@@ -2,8 +2,18 @@
 Hi Devs,<br>
 I am a Full-Stack Developer and Co-Founder of StudyNinja AI
 <br>I'm currently building SubjectGPT for students
+<br>I have a experience of 3-4 years in Full-Stack Development from .NET to React to Angular 
 <br>I'm looking to collabrate on Unimentor my OpenSource project
 <br>I'm currently learning Web3 technologies and Generateive AI<br>
+
+💼 Services I Offer:
+
+- Web Development: Crafting seamless digital experiences powered by cutting-edge technologies.
+- Angular , Next.js, CSS, HTML, React: Harnessing the latest web development tools for stunning and responsive designs.
+- AI Expertise: Leveraging my profound understanding of in LLM models like GPT 3.5 and Claude AI
+- AI Chatbots: Created AI assistanst using Fine tune Models and  intelligent conversational interfaces.
+- GPT-4 and other AI Models Integration: Seamlessly integrating powerful AI models into various applications.
+- Enterprise Level Development: Creating Large and Big Finance Softwares for the companies
 
 
 ## 🌐 Socials:
@@ -18,6 +28,51 @@ I am a Full-Stack Developer and Co-Founder of StudyNinja AI
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=saadjangdaa&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+# Participated in Hackathons  
+
+<p align="center" >
+ 
+ 
+</p>
+
+
+
+
+
+
+
+
+<p float="center">
+ 
+ <a href="">
+ </a>
+ 
+ <a href="">
+ </a>
+ 
+ 
+
+
+ 
+  <a href="">
+ </a>
+ 
+
+   <a href="">
+ </a>
+ 
+
+ 
+
+ 
+  <a href="">
+ </a>
+
+
+
+ 
+</p> 
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
