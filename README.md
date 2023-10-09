@@ -1,5 +1,9 @@
 # 💫 About Me:
-I'm currently working on SubejectGPT<br>I'm looking to collabrate on Unimentor my opensource project<br>I'm currently learning Web3 technologies and Generateive AI<br>
+Hi Devs,<br>
+I am a Full-Stack Developer and Co-Founder of StudyNinja AI
+<br>I'm currently building SubjectGPT for students
+<br>I'm looking to collabrate on Unimentor my OpenSource project
+<br>I'm currently learning Web3 technologies and Generateive AI<br>
 
 
 ## 🌐 Socials:
