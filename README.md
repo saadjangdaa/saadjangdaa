@@ -5,13 +5,12 @@ I am Saad Jangda a Full-Stack Developer and Co-Founder of StudyNinja AI
 <br>Got More than 90 Signups for SubjectGPT
 <br>Featured on [Buildspace Demo Page](https://buildspace.so/s4/demoday/subjectgpt)
 <br>I have a experience of 3-4 years in Full-Stack Development from .NET to React to Angular 
-<br>Feel free to collabrate on UniMentor my OpenSource project
 <br>I'm currently learning Web3 technologies and Generative AI
 <br>For any queries mail me at 📧 saadjangdaa@outlook.com
 
 
-# Participated in Competitions  
-<br>I Participated in many Competitions such as
+# Participated in Hackathons/Competitions  
+<br>I Participated in many Hackathons/Competitions such as
     <br>- HackStack Google'23 First Position 
     <br>- ACSEC 4 Winner CS Module- Atchison College Lahore 
     <br>- Epsilon Winner RoboWar Module - Alpha College 
