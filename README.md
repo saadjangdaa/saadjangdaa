@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hi Devs👋,<br>
 I am Saad Jangda a Full-Stack Developer and Co-Founder of StudyNinja AI
-<br>I'm currently building SubjectGPT for students : [www.studyninjaai.com](www.studyninjaai.com)
+<br>I'm currently building SubjectGPT for students : [www.studyninjaai.com](https://www.studyninjaai.com/)
 <br>Got More than 90 Signups for SubjectGPT
 <br>Featured on [Buildspace Demo Page](https://buildspace.so/s4/demoday/subjectgpt)
 <br>I have a experience of 3-4 years in Full-Stack Development from .NET to React to Angular 
