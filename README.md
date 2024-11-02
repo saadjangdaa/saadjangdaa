@@ -2,11 +2,11 @@
 Hi Devs👋,<br>
 I am Saad Jangda a Full-Stack Developer and Co-Founder of StudyNinja AI
 <br>I'm currently building SubjectGPT for students : [www.studyninjaai.com](https://www.studyninjaai.com/)
-<br>Got More than 90 Signups for SubjectGPT
+<br>Got More than 150 Signups for SubjectGPT
 <br>Featured on [Buildspace Demo Page](https://buildspace.so/s4/demoday/subjectgpt)
-<br>I have a experience of 4-5 years in Full-Stack Development from .NET to React to Angular 
+<br>I have a experience of 5+ years in Full-Stack Development from .NET to React to Angular 
 <br>I'm currently learning Web3 technologies and Generative AI
-<br>For any queries mail me at 📧 support@studyninjaai.com
+<br>For any queries message me at 📧 [Linkden](https://www.linkedin.com/in/saad-jangda/) 
 
 
 # Participated in Hackathons/Competitions  
@@ -23,7 +23,7 @@ I am Saad Jangda a Full-Stack Developer and Co-Founder of StudyNinja AI
 💼 Services I Offer:
 
 - Web Development: Crafting seamless digital experiences powered by cutting-edge technologies.
-- Angular, Next.js, React, .NET Core , CSS, HTML,: Harnessing the latest web development tools for stunning and responsive designs.
+- Angular, Next.js, React, .NET Core , Blazor , CSS, HTML,: Harnessing the latest web development tools for stunning and responsive designs.
 - AI Expertise: Leveraging my profound understanding of in LLM models like GPT 3.5 and Claude AI
 - AI Chatbots: Created AI assistanst using Fine tune Models and  intelligent conversational interfaces.
 - GPT-4 and other AI Models Integration: Seamlessly integrating powerful AI models into various applications.
